@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>baseUrl</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.tiket.com/'</initValue>
+      <name>baseUrlTiket</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://mail.google.com/mail/u/0/#all'</initValue>
+      <name>baseUrlGmail</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
